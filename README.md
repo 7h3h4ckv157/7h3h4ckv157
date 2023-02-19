@@ -1,12 +1,5 @@
 # Hi there, 👋  
 
-#### I'm Kiran PP, a.k.a 7h3h4ckv157
+I'm an experienced offensive security researcher with a proven track record of discovering and reporting vulnerabilities in a variety of software and systems. Acknowledged by organizations including NASA, Google, and TryHackMe, possess a deep understanding of the latest security threats and trends, and a passion for staying on the cutting edge of the field. With x2 CVE: [CVE-2022-4408, CVE-2023-0777 ] and some recognition in the industry, equipped with the skills and expertise necessary to help organizations strengthen their security posture and protect against potential attacks. 
 
-
-<img src="https://raw.githubusercontent.com/7h3h4ckv157/7h3h4ckv157.github.io/main/kiran.gif">
-
-
-
-
-I'm a security researcher who loves Offsec, wide exploitation, hunting bugs, playing CTF 🧠, 0s & 1s, Computers, 0x41414141 Segfaults 💥& lot more!! ;)
-- 📫 Connect with me: <a href=https://twitter.com/7h3h4ckv157>7h3h4ckv157</a>
+➡  Google me: <a href="https://google.com/?q=7h3h4ckv157">7h3h4ckv157</a>
