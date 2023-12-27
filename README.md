@@ -14,8 +14,6 @@ Short things I love to say:
  
 • Wanna Hire me? : DM (X or LinkedIn)
 
-• Google me out: 7h3h4ckv157
-
 Visit Again! 🤝🏻
 
 ➡  Google me: <a href="https://google.com/search?q=7h3h4ckv157">7h3h4ckv157</a>
