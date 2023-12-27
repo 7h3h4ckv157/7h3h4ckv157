@@ -1,8 +1,21 @@
 # Hi there, 👋  
 
-I'm an experienced offensive security researcher with a proven track record of discovering and reporting vulnerabilities in a variety of software and systems. Acknowledged by organizations including NASA, Google, Apple, Twitter, CISA & many more.
+I'm a human being who's curious about Computers, Technology, AI, Human Mind, etc. They build stuff for us to crack! 
 
-I'm passionately staying on the cutting edge of the field. With x4 CVE, ×1 Exploit and some other recognition in the industry, equipped with the skills and expertise necessary to help organizations strengthen their security posture and protect against potential attacks. 
+Short things I love to say: 
+
+• Zero crimes
+
+• My Hall of Fame list: Google, Apple, Nasa, 𝕏 (Twitter), etc.
+
+• CVE: Currently 4, will continue after a while 
+
+• Biggest Achievement: Yet to come
  
+• Wanna Hire me? : DM (Available) 
+
+• Google me out: 7h3h4ckv157
+
+Visit Again! 🤝🏻
 
 ➡  Google me: <a href="https://google.com/search?q=7h3h4ckv157">7h3h4ckv157</a>
