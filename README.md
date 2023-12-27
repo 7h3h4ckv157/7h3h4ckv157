@@ -12,7 +12,7 @@ Short things I love to say:
 
 • Biggest Achievement: Yet to come
  
-• Wanna Hire me? : DM (Available) 
+• Wanna Hire me? : DM (X or LinkedIn)
 
 • Google me out: 7h3h4ckv157
 
