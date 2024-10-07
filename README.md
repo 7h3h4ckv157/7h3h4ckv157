@@ -1,19 +1,94 @@
-# Hi there, 👋  
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>7h3h4ckv157 - Offensive Security Expert</title>
+    <style>
+        body {
+            background-color: #000;
+            color: #33ff33; /* Matrix green text */
+            font-family: "Courier New", Courier, monospace;
+            text-align: center;
+            overflow: hidden;
+            margin: 0;
+            padding: 0;
+        }
 
-I'm a human being who's curious about Computers, Technology, AI, Human Mind, etc. They build stuff for us to crack! 
+        h1 {
+            font-size: 3rem;
+            margin-top: 50px;
+            text-shadow: 0px 0px 5px #33ff33;
+            animation: flicker 1.5s infinite;
+        }
 
-Short things I love to say: 
+        p {
+            font-size: 1.2rem;
+            margin: 20px 0;
+            text-shadow: 0px 0px 2px #33ff33;
+        }
 
-• Zero crimes
+        @keyframes flicker {
+            0%, 100% {
+                opacity: 1;
+            }
+            50% {
+                opacity: 0.8;
+            }
+        }
 
-• My Hall of Fame list: Google, Apple, Nasa, 𝕏 (Twitter), etc.
+        .matrix {
+            position: fixed;
+            width: 100%;
+            height: 100%;
+            z-index: -1;
+        }
 
-• CVE: Currently 4, will continue after a while 
+        .matrix div {
+            position: absolute;
+            top: 0;
+            font-size: 20px;
+            animation: fall 10s linear infinite;
+            color: rgba(0, 255, 0, 0.8);
+        }
 
-• Biggest Achievement: Yet to come
- 
-• Wanna Hire me? : DM (X or LinkedIn)
+        @keyframes fall {
+            0% {
+                top: -100%;
+                opacity: 0;
+            }
+            20% {
+                opacity: 1;
+            }
+            100% {
+                top: 100%;
+                opacity: 0;
+            }
+        }
+    </style>
+</head>
+<body>
 
-Visit Again! 🤝🏻
+    <div class="matrix"></div>
 
-➡  Google me: <a href="https://google.com/search?q=7h3h4ckv157">7h3h4ckv157</a>
+    <h1>👾 7h3h4ckv157 👾</h1>
+    <p>Offensive Security Expert | HackTheBox - Guru | P1 Warrior - BugCrowd | CVE Contributor (x4)</p>
+
+    <p>Hall of Fame: NASA 🚀 | Google 🏆 | Apple 🍏 | X (F.K.A Twitter) 🐦</p>
+
+    <p>Connect: <a href="https://x.com/7h3h4ckv157" style="color: #33ff33; text-decoration: none;">𝕏</a>  | <a href="https://linkedin.com/in/7h3h4ckv157" style="color: #33ff33; text-decoration: none;">LinkedIn</a> | <a href="https://instagram.com/7h3h4ckv157" style="color: #33ff33; text-decoration: none;">Instagram</a></p>
+
+    <script>
+        const matrixContainer = document.querySelector('.matrix');
+        const columns = Math.floor(window.innerWidth / 20);
+        for (let i = 0; i < columns; i++) {
+            let div = document.createElement('div');
+            div.style.left = i * 20 + 'px';
+            div.innerHTML = '0 1 0 1 0<br>1 0 1 0 1';
+            div.style.animationDuration = Math.random() * 5 + 5 + 's';
+            matrixContainer.appendChild(div);
+        }
+    </script>
+
+</body>
+</html>
