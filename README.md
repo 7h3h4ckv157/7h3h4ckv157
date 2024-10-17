@@ -16,6 +16,7 @@ I’m a cybersecurity expert with significant milestones in the industry, recogn
 - 🛡️ **Bugcrowd P1 Warrior**: Discovered Critical security flaws.
 - 📜 **CVE Contributor**: Proud author of four CVEs.
 - 🎖️ **Hall of Fame**: Acknowledged by prestigious organizations such as Google, Apple, NASA, X (formerly Twitter), etc.
+- 👨🏻‍🎓 **Computer Science Engineer** (Degree + Diploma)   
 
 I believe my biggest achievements are yet to come. Constantly striving to improve, I remain passionate about discovering vulnerabilities, building secure systems, and pushing the boundaries of cybersecurity.
 
