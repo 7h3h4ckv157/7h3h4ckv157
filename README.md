@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/7h3h4ckv157">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=500&color=F77B33&center=true&vCenter=true&width=800&lines=Cybersecurity+Expert;HackTheBox+Guru;Bugcrowd+P1+Warrior;CVE+Contributor;Hall+of+Fame+at+Google,+Apple,+NASA,+X">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=500&color=F77B33&center=true&vCenter=true&width=800&lines=Hacker;Offensive+Security+Expert;HackTheBox+Guru;Bugcrowd+P1+Warrior;CVE+Contributor;Hall+of+Fame+at+Google,+Apple,+NASA,+X">
   </a>
 </p>
 
