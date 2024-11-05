@@ -35,13 +35,15 @@ I believe my biggest achievements are yet to come. Constantly striving to improv
 
 ### 🔑 Skills & Expertise
 
-- **Penetration Testing**
 - **Vulnerability Research**
 - **Web Application Security**
 - **Reverse Engineering**
 - **Social Engineering**
 - **OSINT**
 - **API Testing**
+- **Network Pen-Testing**
+- **Active Directory Pen-Testing**
+- **Hacking any Technology/protocol after the research**
 
 ---
 
