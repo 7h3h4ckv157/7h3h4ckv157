@@ -44,6 +44,7 @@ I believe my biggest achievements are yet to come. Constantly striving to improv
 - **API Testing**
 - **Network Pen-Testing**
 - **Active Directory Pen-Testing**
+- **Web LLM (AI) Testing**
 - **Hacking any Technology/protocol after the research**
 
 ---
