@@ -13,6 +13,7 @@
 I’m a cybersecurity expert with significant milestones in the industry, recognized for my contributions to high-profile organizations. Here's a bit about my journey:
 
 - 🎖️ **Hall of Fame**: Acknowledged by prestigious organizations such as Google, Apple, NASA, X (formerly Twitter), etc.
+- 📰 Contributed in NASA's IT talk news letter - Jan 2025
 - 🔐 **HackTheBox Guru**: Achieved good rank.
 - 🗣️ **Speaker**: Black Hat MEA 2024 
 - 🛡️ **Bugcrowd P1 Warrior**: Discovered Critical security flaws.
