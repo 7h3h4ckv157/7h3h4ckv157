@@ -17,7 +17,7 @@ I’m a cybersecurity expert with significant milestones in the industry, recogn
 - 🔐 **HackTheBox Guru**: Achieved good rank.
 - 🗣️ **Speaker**: Black Hat MEA 2024 
 - 🛡️ **Bugcrowd P1 Warrior**: Discovered Critical security flaws.
-- 📜 **CVE Contributor**: Proud author of four CVEs.
+- 📜 **CVE Publications**: 4x CVE
 - 👨🏻‍🎓 **Computer Science Engineer** (Degree + Diploma)   
 
 I believe my biggest achievements are yet to come. Constantly striving to improve, I remain passionate about discovering vulnerabilities, building secure systems, and pushing the boundaries of cybersecurity.
